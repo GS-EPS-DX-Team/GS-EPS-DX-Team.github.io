@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.daba5c74.css",
+    "main.js": "/static/js/main.ad067661.js",
+    "static/js/453.07ae1ea4.chunk.js": "/static/js/453.07ae1ea4.chunk.js",
+    "static/media/favicion_gseps.svg": "/static/media/favicion_gseps.1222cfaed6caea052a33e56ab6c5f649.svg",
+    "index.html": "/index.html",
+    "main.daba5c74.css.map": "/static/css/main.daba5c74.css.map",
+    "main.ad067661.js.map": "/static/js/main.ad067661.js.map",
+    "453.07ae1ea4.chunk.js.map": "/static/js/453.07ae1ea4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daba5c74.css",
+    "static/js/main.ad067661.js"
+  ]
+}
